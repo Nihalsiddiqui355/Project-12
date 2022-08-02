@@ -7,7 +7,7 @@
 
 
 
-## Project 12 [Live Link](https://js-project12th-hitesh.netlify.app/)
+## Project 12 [Live Link](https://fullstack-js-project-12.netlify.app/)
 
 - >  Skills Gained in this project
     -   Learned to use `Object fit object possition`
