@@ -391,7 +391,7 @@ div img[src="./images/sec-3.jpg"] {
 
     .container .sec-3 {
         height: 80rem;
-        /* border: 2px solid red; */
+        border: 2px solid red;
         position: relative;
         top: 190px;
     }
@@ -709,7 +709,7 @@ div img[src="./images/pic-5.jpg"] {
         margin: 0 auto;
         position: relative;
         top: 220px;
-        height: 130rem;
+        height: 150rem;
     }
 
     .sec-6 .top-6 {
