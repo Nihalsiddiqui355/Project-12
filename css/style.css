@@ -391,7 +391,7 @@ div img[src="./images/sec-3.jpg"] {
 
     .container .sec-3 {
         height: 80rem;
-        border: 2px solid red;
+        /* border: 2px solid red; */
         position: relative;
         top: 190px;
     }
