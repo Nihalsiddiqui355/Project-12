@@ -281,7 +281,7 @@ div img[src="./images/sec2.jpg"] {
 @media (min-width:320px) and (max-width:869px) {
 
     .container .sec-2 {
-        height: 111vh;
+        height: 120vh;
     }
 
     .sec-2 {
@@ -390,10 +390,15 @@ div img[src="./images/sec-3.jpg"] {
     }
 
     .container .sec-3 {
-        height: 133vh;
+        height: 80rem;
+        /* border: 2px solid red; */
+        position: relative;
+        top: 190px;
     }
 
     .sec-3 .top-3 {
+
+        top: 40px;
         font-size: 40px;
         width: 300px;
         line-height: 40px;
@@ -702,7 +707,9 @@ div img[src="./images/pic-5.jpg"] {
 
     .sec-6 {
         margin: 0 auto;
-        height: 2450px;
+        position: relative;
+        top: 220px;
+        height: 130rem;
     }
 
     .sec-6 .top-6 {
