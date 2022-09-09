@@ -171,11 +171,12 @@ div img[src="./images/sec-1.jpg"] {
         max-width: 400px;
         margin: 0 auto;
     }
+
     div img[src="./images/sec-1.jpg"] {
         position: relative;
         left: 0;
         object-fit: cover;
-     
+
     }
 
     .left-1 .sec-1-img {
@@ -280,7 +281,7 @@ div img[src="./images/sec2.jpg"] {
 @media (min-width:320px) and (max-width:869px) {
 
     .container .sec-2 {
-        height: 100vh;
+        height: 111vh;
     }
 
     .sec-2 {
@@ -385,8 +386,9 @@ div img[src="./images/sec-3.jpg"] {
     .sec-3 {
         position: relative;
         margin: 0 auto;
-       
+
     }
+
     .container .sec-3 {
         height: 133vh;
     }
@@ -399,13 +401,13 @@ div img[src="./images/sec-3.jpg"] {
     }
 
     .sec-3 .sec-3-mid {
-        width:350px;
+        width: 350px;
         display: grid;
         margin: 0 auto;
     }
 
     .sec-3 .sec-3-mid .left-3 {
-     
+
         width: 300px;
         /* margin: 0 auto; */
         align-items: center;
@@ -413,7 +415,7 @@ div img[src="./images/sec-3.jpg"] {
 
     .sec-3-mid .left-3 h1 {
         margin: 0 auto;
-       
+
         text-align: center;
         padding: 10px 0px;
     }
@@ -428,6 +430,7 @@ div img[src="./images/sec-3.jpg"] {
         width: 300px;
 
     }
+
     div img[src="./images/sec-3.jpg"] {
         width: 350px;
         object-position: -300px 10%;
@@ -502,30 +505,33 @@ div img[src="./images/sec-4.jpg"] {
         margin: 0 auto;
         width: 100%;
     }
+
     div img[src="./images/sec-4.jpg"] {
         width: 100%;
-       margin: 0 auto;
+        margin: 0 auto;
     }
+
     .sec-4 .right-4 {
         background-color: #fff;
         width: 100%;
         margin: 0 auto;
     }
-    
+
     .sec-4 .right-4>h1 {
-        
+
         position: relative;
         top: 35px;
         width: 300px;
         margin: 0 auto;
         padding: 10px 0px;
     }
+
     .sec-4 .right-4>p {
         width: 25rem;
         width: 300px;
         margin: 0 auto;
     }
-    
+
     .sec-4 .right-4 .btn-4 {
         padding: 20px 30px;
         width: 190px;
@@ -533,8 +539,8 @@ div img[src="./images/sec-4.jpg"] {
         position: relative;
         left: 40px;
     }
-    
-    
+
+
 }
 
 /* Section five */
@@ -599,7 +605,7 @@ div img[src="./images/pic-5.jpg"] {
 
     .sec-5 .left-5>h1 {
         position: relative;
-        left:0px;
+        left: 0px;
         margin: 0 auto;
         width: 300px;
     }
@@ -608,17 +614,20 @@ div img[src="./images/pic-5.jpg"] {
         width: 300px;
         text-align: center;
         position: relative;
-        left:0px;
+        left: 0px;
     }
+
     .sec-5 .btn-5 {
         margin: 10px 0px;
         position: relative;
-        left:5px;
+        left: 5px;
 
     }
-    .right-5{
+
+    .right-5 {
         margin: 0 auto;
     }
+
     div img[src="./images/pic-5.jpg"] {
         width: 350px;
         object-position: -130px 10%;
@@ -693,36 +702,40 @@ div img[src="./images/pic-5.jpg"] {
 
     .sec-6 {
         margin: 0 auto;
-        height:2450px;
+        height: 2450px;
     }
+
     .sec-6 .top-6 {
         display: grid;
         grid-template-columns: 1fr;
         justify-items: center;
     }
+
     .sec-6 .top-6>h2 {
-   
+
         width: 10em;
         font-size: 30px;
         margin: 0 auto;
     }
-    
+
     .sec-6 .top-6>p {
         width: 16em;
         padding-top: 10px;
         margin: 0 auto;
     }
+
     .sec-6 .bot-6 {
         margin: 0 auto;
-        height:100vh;
+        height: 100vh;
         display: grid;
     }
+
     .sec-6 .bot-6 .teams-card img {
         width: 300px;
         height: 65vh;
         margin-left: 20px;
     }
-    
+
 }
 
 
@@ -804,12 +817,14 @@ div img[src="./images/pic-5.jpg"] {
 }
 
 @media (min-width:320px) and (max-width:869px) {
+
     /* .footer{
 
     } */
-    .sec-7{
+    .sec-7 {
         margin: 0 auto;
     }
+
     .sec-7 .footer {
         max-width: 800px;
         margin: 0 auto;
@@ -818,18 +833,21 @@ div img[src="./images/pic-5.jpg"] {
     .sec-7 .footer .footer-logos {
         margin: 0 auto;
     }
+
     .sec-7 .footer .footer-logos .logo-7 span {
         cursor: pointer;
         position: relative;
         left: 0px;
-       
+
     }
+
     .sec-7 .footer-navbar {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        height:80vh;
+        height: 80vh;
         margin: 0 auto;
     }
+
     .sec-7 .footer-navbar .navbar-list {
         margin: 0 auto;
     }
